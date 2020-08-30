@@ -1,4 +1,4 @@
-# Programming assignments cousera ML course by Andrew ng
+# Programming works cousera ML-course by Andrew ng
 
 ## Contains:
 * Linear Regressions 
